@@ -162,7 +162,7 @@ en_pr:
         nope: "nope!"
         nopriv: "You'd better check YOUR privileges first!"
         checked: "Successfully checked 'tis user's %{privilege} privilege."
-    inquiry:
+    question:
       destroy:
         not_found: "Inquiry does not exist"
         not_authorized: "You are not allowed to delete 'tis inquiry"
@@ -199,7 +199,7 @@ en_pr:
     placeholder:
       inbox: "Write ye answer here..."
       comment: "Comment..."
-      inquiry: "Type ye inquiry here…"
+      question: "Type ye inquiry here…"
     notifications:
       show: "Show all notifications"
       mark: " and mark them as read"
@@ -247,7 +247,7 @@ en_pr:
           settings: "service settings"
     general:
       answer: "Answer"
-      inquiry: "Inquiry"
+      question: "Inquiry"
       comment: "Comment"
       smile: "Arr!"
       follower: "Spy"
