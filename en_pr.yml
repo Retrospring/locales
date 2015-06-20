@@ -254,7 +254,7 @@ en_pr:
       following: "Spyin'"
       timeline: "Cap'n's Log"
       public: "Public"
-      user: "User"
+      user: "Pirate"
       terms: "Terms of ye Service"
       privacy: "Pirat-y Policy"
       about: "About"
@@ -302,8 +302,8 @@ en_pr:
       title: "Tis' inquiry was not in ye inbox? Answer it here!"
     navigation:
       timeline: "Cap'n's Log"
-      inbox: "Inbox"
-      discover: "Discover"
+      inbox: "Bottle o' Messages"
+      discover: "Scour"
       notifications: "Hail-shots"
       show: "Home Port"
       settings: "Adjust ye riggin's"
@@ -334,7 +334,7 @@ en_pr:
         bugtracker: "bug tracker"
       repository:
         title: "Main Repository"
-        desc: "Th' place where all the code magic and fixing happens!"
+        desc: "Th' place where all the code witchery and fixing happens!"
       contributors:
         title: "Contributors"
         desc: "Th'se people have contributed to %{app_title}'s source code."
@@ -366,7 +366,7 @@ en_pr:
         title: "People"
         desc: "Newcomers and people who asked the most inquirys"
         tab:
-          new: "New Users"
+          new: "New Pirates"
           inquirys: "Active Askers"
           answers: "Most Answers"
       userbox:
@@ -375,23 +375,23 @@ en_pr:
         inquirys: "asked %{inquirys}"
     answerbox:
       asked: "%{user} asked %{time} ago"
-      read: "Read the entire answer"
+      read: "Peer into the depths"
       answered: "%{hide} %{user}" # resolves into "Answered by %{user}"
       hide: "Answered by" # ^
       time: "%{time} ago"
       no_smile: "No one smiled 'tis, yet."
-      no_comment: "Th're are no comments yet."
-      commentsmile: "People who smiled 'tis comment"
+      no_comment: "Th're are no scrwalins yet."
+      commentsmile: "People who smiled 'tis scrawlin"
     inquirybox:
       title: "Ask something!"
       banned: "Tis' user got hit with ye olde banhammer."
       required: "Tis' user does not want to get asked by strangers.  Why don't you %{signup}?"
-      load: "Asking..."
+      load: "Throwing Bottle o' Messages into the sea..."
       promote:
         message: "Your inquiry has been sent."
         create: "Create an account"
         another: "Ask another inquiry"
-        join: "Join %{app_title} today!  You'll be able to follow and ask people you know and a lot more."
+        join: "Join %{app_title} today! Ye'll be able to spy on and ask people you know and a lot more."
     settings:
       tabs:
         account: "Account"
@@ -401,7 +401,7 @@ en_pr:
       account:
         modal:
           title: "Save account changes"
-        username: "User moniker"
+        username: "Pirate moniker"
         email: "Email address"
         email_confirm: "Currently awaiting confirmation for %{resource}"
         password: "Password"
@@ -440,10 +440,10 @@ en_pr:
       ask:
         title: "Ask ye hearties"
         choose: "Choose group:"
-        loading: "Asking..."
+        loading: "Bottling message..."
       bancontrol:
-        title: "Ban Control Center"
-        ban: "Ban?"
+        title: "The Plank"
+        ban: "Push off ye plank?"
         permanent: "Permanently?"
         reason: "Reason"
         hammertime: "Ye olde Hammer Time!"
@@ -463,12 +463,12 @@ en_pr:
         admin: "Tis' user is part of the core team."
         translator: "Tis' user helped translating Retrospring into their language."
     user:
-      follows_you: "Follows you"
+      follows_you: "Be spyin on you"
       title:
-        admin: "Admin"
-        moderator: "Moderator"
+        admin: "Cap'n"
+        moderator: "Chief Officer"
         supporter: "Supporter"
         contributor: "Contributor"
         blogger: "Blogger"
-        banned: "Banned"
+        banned: "Jailed in Davy Jones Locker"
         translator: "Translator"
