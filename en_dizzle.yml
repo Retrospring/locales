@@ -21,7 +21,7 @@
 
 en_dizzle:
   frontend:
-    load: "Load more"
+    load: "Load some mo'"
     success:
       title: "Success!"
     error:
