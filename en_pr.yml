@@ -205,7 +205,7 @@ en_pr:
       mark: " and mark them as read"
       answer:
         body: "answered %{inquiry} %{time} ago"
-        inquiry: "ye inquiry"
+        question: "ye inquiry"
       relationship:
         body: "been spyin' on you since %{time}"
       smile:
@@ -228,7 +228,7 @@ en_pr:
     inbox:
       empty: "Nottin' to see here, matey."
       sidebar:
-        inquirys:
+        questions:
           title: "Out of inquirys?"
           button: "Get new inquiry"
         share:
@@ -298,7 +298,7 @@ en_pr:
         reported: "%{user} reported a %{content} %{time} ago"
         reason: "Reason:"
         view: "View reported %{content}"
-    inquiry:
+    question:
       title: "Tis' inquiry was not in ye inbox? Answer it here!"
     navigation:
       timeline: "Cap'n's Log"
@@ -341,7 +341,7 @@ en_pr:
         howto: "Want to get listed here? %{fork} and create a new pull request with ye changes."
         fork: "Fork 'tis repo"
       team:
-        title: "Th' Team"
+        title: "Th' Crew"
         desc: "Th' people behind %{app_title}!"
       moderators:
         title: "Moderators"
@@ -382,7 +382,7 @@ en_pr:
       no_smile: "No one smiled 'tis, yet."
       no_comment: "Th're are no scrwalins yet."
       commentsmile: "People who smiled 'tis scrawlin"
-    inquirybox:
+    questionbox:
       title: "Ask something!"
       banned: "Tis' user got hit with ye olde banhammer."
       required: "Tis' user does not want to get asked by strangers.  Why don't you %{signup}?"
