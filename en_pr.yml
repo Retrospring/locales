@@ -117,15 +117,15 @@ en_pr:
     group:
       create:
         noname: "Please gift that crew a moniker."
-        toolong: "Group moniker too long (30 characters max.)"
+        toolong: "Crew moniker too long (30 characters max.)"
         notfound: "Could not find user."
-        exists: "Group already exists."
+        exists: "'tis crew already be existing."
         okay: "Successfully created crew."
       destroy:
         notfound: "Could not find crew."
         okay: "Successfully deleted crew."
       membership:
-        notfound: "Group not found."
+        notfound: "Crew not found."
         add: "Successfully added user to crew."
         remove: "Successfully removed user from crew."
     inbox:
@@ -169,7 +169,7 @@ en_pr:
         okay: "Successfully deleted inquiry."
       create:
         rec_inv: "Your inquiry is too long."
-        not_found: "Group not found"
+        not_found: "Crew not found"
         okay: "Inquiry asked successfully."
       preview:
         fail: "Failed to render markdown."
@@ -450,10 +450,10 @@ en_pr:
       group:
         title: "Manage crew memberships"
         tabs:
-          main: "Groups"
+          main: "Crews"
           create: "Create new crew"
         create: "Create crew"
-        name: "Group moniker"
+        name: "Crew moniker"
         members: "members"
       privilege:
         blogger: "Th' user gets that privilege if they blogged something (nice) about Retrospring."
