@@ -360,19 +360,19 @@ en_pr:
         desc: "Answers with most smiles and most answered inquirys"
         tab:
           answers: "Most Liked"
-          inquirys: "Most Answers"
+          questions: "Most Answers"
           comments: "Most Controversial"
       people:
         title: "People"
         desc: "Newcomers and people who asked the most inquirys"
         tab:
           new: "New Pirates"
-          inquirys: "Active Askers"
+          questions: "Active Askers"
           answers: "Most Answers"
       userbox:
         new: "registered %{time} ago"
         answers: "answered %{questions}"
-        inquirys: "asked %{questions}"
+        questions: "asked %{questions}"
     answerbox:
       asked: "%{user} asked %{time} ago"
       read: "Peer into the depths"
