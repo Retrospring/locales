@@ -35,8 +35,8 @@ en_pr:
         unsubscribe: "Failed to unsubscribe from answer."
     group:
       confirm:
-        title: "D' ye wish to send this group t' Davy Jones' Locker?"
-        text: "Ye gunna not be able to recover 'tis group."
+        title: "D' ye wish to send this crew t' Davy Jones' Locker?"
+        text: "Ye gunna not be able to recover 'tis crew."
     destroy_question:
       confirm:
         title: "Be ye sure?"
@@ -116,18 +116,18 @@ en_pr:
         okay: "No longer spyin' on user."
     group:
       create:
-        noname: "Please gift that group a moniker."
+        noname: "Please gift that crew a moniker."
         toolong: "Group moniker too long (30 characters max.)"
         notfound: "Could not find user."
         exists: "Group already exists."
-        okay: "Successfully created group."
+        okay: "Successfully created crew."
       destroy:
-        notfound: "Could not find group."
-        okay: "Successfully deleted group."
+        notfound: "Could not find crew."
+        okay: "Successfully deleted crew."
       membership:
         notfound: "Group not found."
-        add: "Successfully added user to group."
-        remove: "Successfully removed user from group."
+        add: "Successfully added user to crew."
+        remove: "Successfully removed user from crew."
     inbox:
       create:
         okay: "Successfully added new inquiry."
@@ -259,7 +259,7 @@ en_pr:
       privacy: "Pirat-y Policy"
       about: "About"
     group:
-      title: "Group"
+      title: "Crew"
       members: "Members"
     actions:
       title: "Actions"
@@ -277,7 +277,7 @@ en_pr:
       load: "Load more"
       follow: "Spy"
       unfollow: "Un-Spy"
-      group: "Manage group memberships"
+      group: "Manage Crew memberships"
       ban: "Ban Control"
       privilege: "Check %{user}'s privileges"
       save: "Save changes"
@@ -394,9 +394,9 @@ en_pr:
         join: "Join %{app_title} today! Ye'll be able to spy on and ask people you know and a lot more."
     settings:
       tabs:
-        account: "Account"
-        profile: "Profile"
-        privacy: "Privacy"
+        account: "Home Port"
+        profile: "Your Ship"
+        privacy: "Pirats-y"
         sharing: "Sharing"
       account:
         modal:
@@ -409,9 +409,9 @@ en_pr:
         password_help: "Leave 'tis blank if you don't want to change it"
         password_current: "Current password"
         password_current_help: "We need ye current password to confirm ye changes"
-        delete: "Delete my account"
+        delete: "Send my account to Davy Jones Locker"
         unsatisfied: "Unsatisfied?"
-        back: "Back"
+        back: "Arr, go back!"
       profile:
         displayname: "Your moniker"
         avatar: "Profile portrait"
@@ -439,7 +439,7 @@ en_pr:
     modal:
       ask:
         title: "Ask ye hearties"
-        choose: "Choose group:"
+        choose: "Choose crew:"
         loading: "Bottling message..."
       bancontrol:
         title: "The Plank"
@@ -448,11 +448,11 @@ en_pr:
         reason: "Reason"
         hammertime: "Ye olde Hammer Time!"
       group:
-        title: "Manage group memberships"
+        title: "Manage crew memberships"
         tabs:
           main: "Groups"
-          create: "Create new group"
-        create: "Create group"
+          create: "Create new crew"
+        create: "Create crew"
         name: "Group moniker"
         members: "members"
       privilege:
