@@ -371,8 +371,8 @@ en_pr:
           answers: "Most Answers"
       userbox:
         new: "registered %{time} ago"
-        answers: "answered %{inquirys}"
-        inquirys: "asked %{inquirys}"
+        answers: "answered %{questions}"
+        inquirys: "asked %{questions}"
     answerbox:
       asked: "%{user} asked %{time} ago"
       read: "Peer into the depths"
