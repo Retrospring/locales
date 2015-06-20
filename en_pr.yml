@@ -409,7 +409,7 @@ en_pr:
         password_help: "Leave 'tis blank if you don't want to change it"
         password_current: "Current password"
         password_current_help: "We need ye current password to confirm ye changes"
-        delete: "Send my account to Davy Jones Locker"
+        delete: "Send my account to Davy Jones' Locker"
         unsatisfied: "Unsatisfied?"
         back: "Arr, go back!"
       profile:
@@ -470,5 +470,5 @@ en_pr:
         supporter: "Supporter"
         contributor: "Contributor"
         blogger: "Blogger"
-        banned: "Jailed in Davy Jones Locker"
+        banned: "Jailed in Davy Jones' Locker"
         translator: "Translator"
