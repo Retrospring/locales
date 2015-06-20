@@ -185,33 +185,33 @@ en:
         fail: "Yo ass have already smiled dat answer."
         okay: "Successfully smiled answer."
       destroy:
-        fail: "You have not smiled that answer."
+        fail: "Yo ass aint smiled dat answer."
         okay: "Successfully unsmiled answer."
       create_comment:
-        fail: "You have already smiled that comment."
+        fail: "Yo ass have already smiled dat comment."
         okay: "Successfully smiled comment."
       destroy_comment:
-        fail: "You have not smiled that comment."
+        fail: "Yo ass aint smiled dat comment."
         okay: "Successfully unsmiled comment."
     subscription:
-      torpedo: "418 I'm a torpedo"
+      torpedo: "418 If ya be seein' this, my man, ya better be makin' yo way outta this bitch"
   views:
     placeholder:
-      inbox: "Write your answer here..."
+      inbox: "Write yo' answer here..."
       comment: "Comment..."
-      question: "Type your question here…"
+      question: "Type yo' question here…"
     notifications:
       show: "Show all notifications"
-      mark: " and mark them as read"
+      mark: " and mark dem as read"
       answer:
         body: "answered %{question} %{time} ago"
-        question: "your question"
+        question: "ya question"
       relationship:
         body: "followed you %{time} ago"
       smile:
         body: "smiled at %{content} %{time} ago" # see below for 'content' vvvv
         answer: "your answer" # content if smile, 'smiled at your answer'
-        comment: "your comment" # content if commentsmile, 'smiled at your comment'
+        comment: "" # content if commentsmile, 'smiled at your comment'
       comment:
         body: "commented on %{content} %{time} ago" # see below for 'content' vvvv
         your: "your answer" # 'commented on your answer'
@@ -226,71 +226,71 @@ en:
         commentsmile: "Comment Smiles"
         relationship: "Followers"
     inbox:
-      empty: "Nothing to see here."
+      empty: "Nothang ta peep here."
       sidebar:
         questions:
-          title: "Out of questions?"
-          button: "Get new question"
+          title: "Out of thangs?"
+          button: "Git freshly smoked up question"
         share:
           title: "Share"
-          button: "Share on %{service}"
+          button: "Smoke up on %{service}"
         actions:
           title: "Actions"
-          button: "Delete all questions"
+          button: "Delete all thangs"
       entry:
         asked: "%{user} asked %{time} ago"
         response: "response"
         sharing:
           title: "Sharing"
           post: "Post to %{service}"
-          none: "You have not connected any services yet. Visit your %{settings} to connect one."
+          none: "Yo ass aint connected any skillz yet. Right back up in yo muthafuckin ass. Smoke up yo' %{settings} ta connect one."
           settings: "service settings"
     general:
       answer: "Answer"
       question: "Question"
       comment: "Comment"
       smile: "Smile"
-      follower: "Follower"
-      following: "Following"
-      timeline: "Timeline"
-      public: "Public"
-      user: "User"
-      terms: "Terms of Service"
-      privacy: "Privacy Policy"
-      about: "About"
+      follower: "Hoodboi"
+      following: "Spyin'"
+      timeline: "Lista' shit"
+      public: "Out thar"
+      user: "Bro"
+      terms: "Tha termz"
+      privacy: "Shit that no one ain't read"
+      about: "'bout"
     group:
-      title: "Group"
-      members: "Members"
+      title: "Fam"
+      members: "Peepz"
     actions:
-      title: "Actions"
+      title: "Thangs"
       ask: "Ask"
-      ask_question: "Ask a question"
+      ask_question: "Ask ya hoodbois some shit"
       answer: "Answer"
-      options: "Options"
-      anonymous: "Hide your name"
-      delete: "Delete"
-      report: "Report"
-      return: "Return to Inbox"
-      subscribe: "Subscribe"
-      unsubscribe: "Unsubscribe"
+      options: "Settin's"
+      anonymous: "Hide yo wife, children and ya name"
+      delete: "Fukin delete"
+      report: "Report that shit"
+      return: "Return ta Inbox"
+      subscribe: "Subscrizzle"
+      unsubscribe: "Unsubscrizzle"
       view: "View comment smiles"
-      load: "Load more"
-      follow: "Follow"
-      unfollow: "Unfollow"
-      group: "Manage group memberships"
-      ban: "Ban Control"
-      privilege: "Check %{user}'s privileges"
-      save: "Save changes"
-      cancel: "Cancel"
-      close: "Close"
-      done: "Done"
-      y: "Yes"
-      n: "No"
+      load: "Load sum more"
+      follow: "Go check on tha homeboy"
+      unfollow: "Stop checkin' on tha homeboy"
+      group: "Manage crew memberships"
+      ban: "Banish that fucker"
+      privilege: "Peep %{user}z privileges"
+      save: "Save chizzles"
+      cancel: "Stop dat"
+      close: "Close that shit"
+      done: "Dun"
+      y: "Hell yea"
+      n: "Hell naw"
     sessions:
-      destroy: "Logout"
-      create: "Sign in"
-      new: "Sign up"
-      info: "With signing up you accept our %{terms}"
+      destroy: "Get tha hell outta here"
+      create: "Get back into this biatch"
+      new: "Create an accountizzle"
+      info: "With signin up you accept our %{terms}"
     moderation:
       tabs:
         all: "All reports"
@@ -299,33 +299,33 @@ en:
         reason: "Reason:"
         view: "View reported %{content}"
     question:
-      title: "This question was not in your inbox? Answer it here!"
+      title: "This question was not up in yo' inbox, biatch? Answer it here!"
     navigation:
-      timeline: "Timeline"
-      inbox: "Inbox"
-      discover: "Discover"
-      notifications: "Notifications"
-      show: "View profile"
-      settings: "Settings"
-      admin: "Kontrollzentrum"
-      sidekiq: "Sidekiq"
-      moderation: "Moderation Panel"
+      timeline: "Tha hood"
+      inbox: "What's up in tha house"
+      discover: "Check some other shit out"
+      notifications: "Nofi'ations"
+      show: "See ya thangs"
+      settings: "Some shit"
+      admin: "Andreas ist blöd"
+      sidekiq: "Kick to tha side"
+      moderation: "What angry peepz reported"
     front:
-      subtitle: "Ask questions, give answers and learn more about your friends."
+      subtitle: "Ask thangs, give lyrics n' learn mo' bout yo' playas."
       ask:
-        title: "Ask and answer questions"
-        desc: "With %{app_title} you can ask people questions and answer questions from other users or unregistered people. Want to know something more? Keep the discussion ongoing in the comments!"
+        title: "Ask n' answer thangs"
+        desc: "With %{app_title} you can ask playas thangs n' answer thangs from other playas or unregistered people. Want ta know suttin' more, biatch? Keep tha rap ongoin up in tha comments!"
       follow:
-        title: "Follow users and get followed"
-        desc: "Following users allows you to get a personalized feed of all people you want to know more about. You can also send a question to all your followers at once!"
+        title: "Big up playas n' git followed"
+        desc: "Peepin playas allows you ta git a personalized feed of all playas you wanna know mo' about. Yo ass can also bust a question ta all yo' followers at once!"
       share:
-        title: "Sharing to other networks"
-        desc: "Want to share your answer to a question so that more people read it? With a simple click on the answer button, your answer is shared wherever you want!"
+        title: "Sharin ta other networks"
+        desc: "Want ta share yo' answer ta a question so dat mo' playas read it, biatch? With a simple click on tha answer button, yo' answer is shared wherever you want!"
     about:
-      subtitle: "About our service, features and other information"
+      subtitle: "Bout our service, features n' other shiznit"
       links:
-        title: "Links"
-        desc: "Important pages and social media profiles from the %{app_title} team, which are recommended to visit!"
+        title: "Lanks"
+        desc: "Important pages n' hood media profilez from tha %{app_title} crew, which is recommended ta visit!"
       opensource:
         title: "Open Source"
         warning: "%{app_title} is running on unfinished code, full of bugs. Caveat emptor."
