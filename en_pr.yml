@@ -204,7 +204,7 @@ en_pr:
       show: "Show all notifications"
       mark: " and mark them as read"
       answer:
-        body: "answered %{inquiry} %{time} ago"
+        body: "answered %{question} %{time} ago"
         question: "ye inquiry"
       relationship:
         body: "been spyin' on you since %{time}"
