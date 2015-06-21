@@ -1,4 +1,5 @@
 it:
+  language: 'Ialiano'
   frontend:
     load: "Carica altro"
     success:
