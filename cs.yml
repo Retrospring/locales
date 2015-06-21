@@ -1,5 +1,6 @@
 ---
 cs:
+  language: 'Čeština'
   frontend:
     load: "Načíst více"
     success:
