@@ -197,6 +197,8 @@ en:
     subscription:
       torpedo: "418 I'm a torpedo"
   views:
+    locale:
+      languages: "Languages"
     placeholder:
       inbox: "Write your answer here..."
       comment: "Comment..."
