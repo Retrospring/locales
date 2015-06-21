@@ -1,5 +1,5 @@
 it:
-  language: 'Ialiano'
+  language: 'Italiano'
   frontend:
     load: "Carica altro"
     success:
