@@ -20,7 +20,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 en_dizzle:
-  language: 'English (fo' dizzle)'
+  language: "English (fo' dizzle)"
   frontend:
     load: "Load some mo'"
     success:
